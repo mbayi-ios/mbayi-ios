@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ambrose
 - 👀 I’m interested in ios development
-- 🌱 I’m currently learning SwiftUI, Combine
+- 🌱 I’m currently learning Swift, SwiftUI, Combine
 - 💞️ I’m looking to collaborate on any ios project
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ambrose-mbayi/)
 
